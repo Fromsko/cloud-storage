@@ -75,7 +75,7 @@ export default function HomePage() {
               </p>
 
               <div className="flex flex-col justify-center gap-4 sm:flex-row">
-                <Link href="/admin">
+                <Link href="/files">
                   <Button size="lg" className="group px-8 py-4 text-lg">
                     开始使用
                     <ArrowRight className="ml-2 h-5 w-5 transition-transform group-hover:translate-x-1" />

@@ -12,10 +12,11 @@
     "id": "4fbe1264-9f49-4172-8660-9718ac218230",
     "fileName": "AnythingLLMDesktop-Silicon.dmg",
     "fileSize": 384266663,
-    "status": "success",
+    "status": "error",
     "progress": 100,
     "uploadedAt": "2025-08-04T15:28:16.143Z",
-    "apiUrl": "/api/files/download/efb13cc4-9edb-4468-8fdd-089c66a666a2"
+    "apiUrl": "/api/files/download/efb13cc4-9edb-4468-8fdd-089c66a666a2",
+    "error": "文件已被删除"
   },
   {
     "id": "a53b560f-beda-47f8-806a-7fe8ca2f8ee2",
@@ -39,10 +40,11 @@
     "id": "63452412-568f-4926-9d01-b5a2e0fb9940",
     "fileName": "AnythingLLMDesktop-Silicon.dmg",
     "fileSize": 384266663,
-    "status": "success",
+    "status": "error",
     "progress": 100,
     "uploadedAt": "2025-08-04T06:06:53.442Z",
-    "apiUrl": "/api/files/download/db6f8ce1-3790-4e5a-961c-fd68e29fe0b7"
+    "apiUrl": "/api/files/download/db6f8ce1-3790-4e5a-961c-fd68e29fe0b7",
+    "error": "文件已被删除"
   },
   {
     "id": "4f349b8a-2d2b-4759-9164-82c44702dd0f",

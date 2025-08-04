@@ -1,0 +1,56 @@
+[
+  {
+    "id": "33f0cc7f-4207-47f4-9b93-6d557cd08389",
+    "fileName": "harvard.wav",
+    "fileSize": 3249924,
+    "status": "success",
+    "progress": 100,
+    "uploadedAt": "2025-08-04T16:07:58.788Z",
+    "apiUrl": "/api/files/download/892af036-d01c-4b85-96d6-5fc697796c71"
+  },
+  {
+    "id": "4fbe1264-9f49-4172-8660-9718ac218230",
+    "fileName": "AnythingLLMDesktop-Silicon.dmg",
+    "fileSize": 384266663,
+    "status": "success",
+    "progress": 100,
+    "uploadedAt": "2025-08-04T15:28:16.143Z",
+    "apiUrl": "/api/files/download/efb13cc4-9edb-4468-8fdd-089c66a666a2"
+  },
+  {
+    "id": "a53b560f-beda-47f8-806a-7fe8ca2f8ee2",
+    "fileName": "2speakers_example.wav",
+    "fileSize": 1658752,
+    "status": "success",
+    "progress": 100,
+    "uploadedAt": "2025-08-04T08:34:12.584Z",
+    "apiUrl": "/api/files/download/fbe02d75-5e42-4fc0-b800-67478b7ede89"
+  },
+  {
+    "id": "0eeb4064-f48b-4b08-b624-4815b5f87673",
+    "fileName": "多人语音识别调研-f8ebe90f94.html",
+    "fileSize": 33886,
+    "status": "success",
+    "progress": 100,
+    "uploadedAt": "2025-08-04T06:15:32.188Z",
+    "apiUrl": "/api/files/download/fb26a7f6-7422-4ed0-bbf3-7ee4678f859e"
+  },
+  {
+    "id": "63452412-568f-4926-9d01-b5a2e0fb9940",
+    "fileName": "AnythingLLMDesktop-Silicon.dmg",
+    "fileSize": 384266663,
+    "status": "success",
+    "progress": 100,
+    "uploadedAt": "2025-08-04T06:06:53.442Z",
+    "apiUrl": "/api/files/download/db6f8ce1-3790-4e5a-961c-fd68e29fe0b7"
+  },
+  {
+    "id": "4f349b8a-2d2b-4759-9164-82c44702dd0f",
+    "fileName": "[图灵程序设计丛书·程序员修炼系列] [美] Debasish Ghosh - 领域专用语言实战 (2013, 人民邮电出版社) - libgen.li(1).pdf",
+    "fileSize": 5368569,
+    "status": "success",
+    "progress": 100,
+    "uploadedAt": "2025-08-04T06:06:09.555Z",
+    "apiUrl": "/api/files/download/5bd309a3-00b1-4446-9497-ad753a8736a8"
+  }
+]
